@@ -6,3 +6,5 @@ We were given a data set from XYZ Bank and ask to create a model  for future use
 
 After transforming the data we built and evaulated multiple models and determined that a Gradient Boosting Tree was the best model. 
 
+For greated detailed see the attached paper.
+
